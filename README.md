@@ -1,4 +1,4 @@
-## 1. clump_finding_problem.py
+## 1. [clump_finding_problem.py](https://github.com/noelnamai/bioinformatics_algorithms/blob/master/clump_finding_problem.py)
 
 Given integers L and t, a string Pattern forms an (L, t)-clump inside a (larger) string Genome if there is an interval of Genome of length L in which Pattern appears at least t times. For example, TGCA forms a (25,3)-clump in the following Genome: gatcagcataagggtcccTGCAaTGCAtgacaagccTGCAgttgttttac
 
