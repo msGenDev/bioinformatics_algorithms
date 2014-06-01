@@ -1,7 +1,5 @@
-
-# coding: utf-8
-
-# In[2]:
+## Python function to find all starting positions where Pattern appears as a substring of Text with at most d mismatches
+## given strings Pattern and Text along with an integer d.
 
 def approximate_pattern_matching_problem(pattern, text , d):
         
@@ -27,4 +25,3 @@ def approximate_pattern_matching_problem(pattern, text , d):
     
 string =  "".join(open("approximate_match_data.txt")).split()
 approximate_pattern_matching_problem(string[0], string[1], int(string[2]))
-
