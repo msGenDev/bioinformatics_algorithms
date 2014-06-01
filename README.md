@@ -1,4 +1,4 @@
-## clump_finding_problem.py
+## 1. clump_finding_problem.py
 
 Given integers L and t, a string Pattern forms an (L, t)-clump inside a (larger) string Genome if there is an interval of Genome of length L in which Pattern appears at least t times. For example, TGCA forms a (25,3)-clump in the following Genome: gatcagcataagggtcccTGCAaTGCAtgacaagccTGCAgttgttttac
 
@@ -25,7 +25,7 @@ CGACA GAAGA AATGT
 
 =========================================================
 
-## frequent_words_problem.py
+## 2. frequent_words_problem.py
 
 This is the first problem in a collection of "code challenges" to accompany Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau &amp; Pavel Pevzner.
 
@@ -62,7 +62,7 @@ CATG GCAT
 
 =========================================================
 
-## minimum_skew_problem.py
+## 3. minimum_skew_problem.py
 
 Define the skew of a DNA string Genome, denoted Skew(Genome), as the difference between the total number of occurrences of G and C in Genome. Let Prefixi (Genome) denote the prefix (i.e., initial substring) of Genome of length i. For example, the values of Skew(Prefixi ("CATGGGCATCGGCCATACGCC")) are:
 
@@ -90,7 +90,7 @@ CCTATCGGTGGATTAGCATGTCCCTGTACGTTTCGCCGCGAACTAGTTCACACGGCTTGATGGCAAATGGTTTTTCCGGC
 
 =========================================================
 
-## pattern_matching_problem.py
+## 4. pattern_matching_problem.py
 
 Recall from that different occurrences of a substring can overlap with each other. For example, ATA occurs three times in CGATATATCCATAG.
 
@@ -117,7 +117,7 @@ GATATATGCATATACTT
 
 =========================================================
 
-## reverse_complement_problem.py
+## 5. reverse_complement_problem.py
 
 In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' and 'G'. Given a nucleotide p, we denote its complementary nucleotide as p. The reverse complement of a string Pattern = p1…pn is the string Pattern = pn … p1 formed by taking the complement of each nucleotide in Pattern, then reversing the resulting string.
 
