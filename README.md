@@ -1,17 +1,31 @@
-Bioinformatics Algorithms (Part 1)
-This course is the first in a two-part series covering some of the algorithms underlying bioinformatics. It will cover some of the algorithms underlying the following fundamental topics in bioinformatics: assembling genomes, comparing DNA and protein sequences, finding regulatory motifs, analyzing genome rearrangements, identifying proteins, and many other topics.
+## [Bioinformatics Algorithms (Part 1)](https://www.coursera.org/course/bioinformatics)
+
+This course was the first in a two-part series covering some of the algorithms underlying bioinformatics. It covers 
+some of the algorithms underlying the following fundamental topics in bioinformatics: 
+
+* assembling genomes, 
+* comparing DNA and protein sequences, 
+* finding regulatory motifs, 
+* analyzing genome rearrangements, 
+* identifying proteins, 
+* and many other topics.
 
 ### About the Course
 
-The sequencing of the human genome fueled a computational revolution in biology. As a result, modern biology produces as many new algorithms as any other fundamental realm of science.  Accordingly, the newly formed links between computer science and biology affect the way we teach applied algorithms to computer scientists.
+The sequencing of the human genome fueled a computational revolution in biology. As a result, modern biology 
+produces as many new algorithms as any other fundamental realm of science.  Accordingly, the newly formed links 
+between computer science and biology affect the way we teach applied algorithms to computer scientists.
 
-Genome sequencing is just one of hundreds of biological problems that have become inextricable from the computational methods required to solve them. In this course, we will uncover some of the algorithmic ideas that are fundamental to an understanding of modern biology.  Computational concepts like dynamic programming and graph theory will help us explore algorithms applied to a wide range of biological topics, from finding regulatory motifs to determining whether the human genome has "fragile" regions.  Throughout the process, we will apply bioinformatics algorithms to real genetic data.
-
-Each chapter in the [course textbook](http://bioinformaticsalgorithms.com/) covers a single biological question and slowly builds the algorithmic knowledge required to address this challenge.  Along the way, coding challenges and exercises (many of which ask you to apply your skills to real genetic data) will be directly integrated into the text at the exact moment they are needed.
+Genome sequencing is just one of hundreds of biological problems that have become inextricable from the computational 
+methods required to solve them. In this course, we will uncover some of the algorithmic ideas that are fundamental 
+to an understanding of modern biology.  Computational concepts like dynamic programming and graph theory will help 
+us explore algorithms applied to a wide range of biological topics, from finding regulatory motifs to determining 
+whether the human genome has "fragile" regions.  Throughout the process, we will apply bioinformatics algorithms to 
+real genetic data.
 
 ### Course Syllabus
 
-The course will be based on six central questions, with the algorithmic ideas that we will use to solve them in parentheses:
+The course was based on six central questions, with the algorithmic ideas that was used to solve them in parentheses:
 
 * Where Does DNA Replication Begin? (Algorithmic Warm-up)
 * How Do We Sequence Antibiotics? (Brute Force Algorithms)
@@ -19,15 +33,6 @@ The course will be based on six central questions, with the algorithmic ideas th
 * How Do We Assemble Genomes? (Graph Algorithms)
 * How Do We Compare Biological Sequences? (Dynamic Programming Algorithms)
 * Are There Fragile Regions in the Human Genome? (Combinatorial Algorithms)
-
-The grading for the course will be based on several weekly programming challenges. Bioinformatics Algorithms (Part 2) will be based around the following questions: 
-
-* Which Animal Gave Us SARS? (Evolutionary Trees)
-* How Do We Locate Disease-Causing Mutations? (Combinatorial Pattern Matching)
-* How Did Yeast Become Such a Good Wine Brewer? (Clustering Algorithms)
-* Why Do We Still Not Have an HIV Vaccine? (Hldden Markov Models)
-* Was T-Rex Just a Big Chicken? (Computational Proteomics)
-* What Genetic Characteristics Do Human Populations Share? (Principal Components Analysis)
 
 ======================================================
 
