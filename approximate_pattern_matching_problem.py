@@ -15,7 +15,7 @@ def approximate_pattern_matching_problem(pattern, genome, d):
     k = len(pattern)
     l = len(genome)
     for i in range(l-k):
-        if appmatchpat(pattern, genome[i:i+k], d):
+        if find_pattern(pattern, genome[i:i+k], d):
             pos = pos + [i]
     return pos
     
